@@ -1,0 +1,8 @@
+*.class 
+*.exe
+*/.cph
+/session_series
+*.prob
+*/node_modules
+.DS_Store
+
